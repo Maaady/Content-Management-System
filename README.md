@@ -1,4 +1,4 @@
-# MaaadyCommand
+# MaaadyCone
 ### About Us
 We are a company that develops a content management system, which allows the creation, editing and publication of content on digital platforms and remote pages.
 
@@ -24,6 +24,6 @@ Managers and teams responsible for writing and publishing your company's content
 When compared to other content management systems on the market, Mockday Commando integrates with Google Analytics, through a third-party extension, and leads to our native A/B Testing solution.
 
 ### Hit Counter, developed by motomoto(@silentsoft)
-[![Hits](https://hits.sh/hceresetti.github.io/maaadycommando-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/maaadycommando-br/)
+[![Hits](https://hits.sh/hceresetti.github.io/maaadycone-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/maaadycone-br/)
 
-© 2023 Maaady Corporation. All rights reserved. Maaady Commando™ is a registered trademark of Maaady Corporation.
+© 2023 Maaady Corporation. All rights reserved. Maaadycone™ is a registered trademark of Maaady Corporation.
