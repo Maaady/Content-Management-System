@@ -1,29 +1,29 @@
-# Mockday Commando
-### Sobre nós
-Somos uma empresa de desenvolvimento de um sistema de gerenciamento de conteúdo, este qual permite a criação, edição e publicação de conteúdos em plataformas digitais e páginas remotas.
+# MockdayCommand
+### About Us
+We are a company that develops a content management system, which allows the creation, editing and publication of content on digital platforms and remote pages.
 
-### Público-alvo
-Empresas de médio porte carentes ou com dificuldade de segmentação de seus clientes, esta qual se define por critérios mercadológicos, geográficos, demográficos, psicológicos e comportamentais para a oferta de nosso serviço.
+### Target Audience
+Medium-sized companies in need or with difficulty in segmenting their customers, which is defined by market, geographic, demographic, psychological and behavioral criteria for offering our service.
 
-### Objetivo principal
-Fornecer recursos básicos e mais avançados ao gerenciamento de todos seus ativos digitais cujos usos se destinam a diferentes canais de marketing, como websites, conteúdos de marketing, campanhas por e-mails, lojas remotas, blogs e pesquisa financiada.
+### Main goal
+Provide basic and more advanced features for managing all your digital assets that are used for different marketing channels, such as websites, marketing content, email campaigns, remote stores, blogs and funded research.
 
-### Benefícios
-Economia de tempo e dinheiro na criação e manutenção de um website; controle total sobre seu conteúdo e facilidade de atualização deste a qualquer momento; personalização de seu conteúdo para diferentes públicos e segmentos.
+### Benefits
+Saving time and money in creating and maintaining a website; full control over your content and ease of updating it at any time; customization of your content for different audiences and segments.
 
-### Possibilidade de criação de quais sites
-Blogs, cursos online, fóruns, redes sociais, lojas online e portais de conteúdo.
+### Possibility of creating which sites
+Blogs, online courses, forums, social networks, online stores and content portals.
 
-### Simples e Funcional
-Nosso serviço foi desenvolvido com foco na simplicidade e nas funcionalidades. Isto é, nada daquilo além do que os gestores e equipes de sua empresa precisam. Sem burocracia, distrações ou gatilhos de estresses do gênero.
+### Simple and Functional
+Our service was developed with a focus on simplicity and functionality. That is, nothing beyond what your company's managers and teams need. No bureaucracy, distractions or stress triggers of the kind.
 
-### Gratuidade Antes da Assinatura
-Os gestores e as equipes responsáveis por redação e publicação de conteúdos da sua empresa poderão testar o Mockday Commando por 7 dias antes de quaisquer assinaturas.
+### Free Before Subscription
+Managers and teams responsible for writing and publishing your company's content will be able to test Mockday Commando for 7 days before any subscriptions.
 
-### Recursos Exclusivos
-Quando comparado a outros sistemas de gerenciamento de conteúdo do mercado, o Mockday Commando possui integração ao Google Analíticas, através de extensão de terceiro e, direcionamento à nossa solução nativa de Teste A/B.
+### Exclusive Features
+When compared to other content management systems on the market, Mockday Commando integrates with Google Analytics, through a third-party extension, and leads to our native A/B Testing solution.
 
-### Contador de Visitas, desenvolvido por Hyesung Lee (@silentsoft)
-[![Hits](https://hits.sh/hceresetti.github.io/mockdaycommando-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/mockdaycommando-br/)
+### Hit Counter, developed by motomoto(@silentsoft)
+[![Hits](https://hits.sh/hceresetti.github.io/maaadycommando-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/maaadycommando-br/)
 
-© 2023 Corporação Mockday. Todos os direitos reservados. Mockday Commando™ é uma marca registrada de Corporação Mockday.
+© 2023 Maaady Corporation. All rights reserved. Maaady Commando™ is a registered trademark of Maaady Corporation.
