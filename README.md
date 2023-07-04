@@ -1,4 +1,4 @@
-# MockdayCommand
+# MaaadyCommand
 ### About Us
 We are a company that develops a content management system, which allows the creation, editing and publication of content on digital platforms and remote pages.
 
